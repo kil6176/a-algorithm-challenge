@@ -7,6 +7,8 @@ PR 하실때 README.md에 다음 순서 적어주시고 올리시면 될 것 같
 
 ## 무엇을 하는가?
 [프로그래머스 0단계](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&page=1&languages=java)를 정답률 높은 순으로 89%부터 조마다 돌아가면서 5문제씩 할당받아서 풀고 발표하기
+
+[구글스프레드시트](https://docs.google.com/spreadsheets/d/1hpgJAsoMTzzzGGCwjou0IMfBkm--QP_DMZ4uqJQbmQo/edit#gid=1083377214)
 ## 순서
 ~~김동현 -> 나도관 -> ?~~
 
